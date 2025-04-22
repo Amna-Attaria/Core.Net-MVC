@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Tranfer date Controller to Modle.props" />
+</Project>

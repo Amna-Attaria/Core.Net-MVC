@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asp\\Desktop\\Tranfer date Controller to Modle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB672058-785A-4953-8A58-73DA6A95DDB7}|Tranfer date Controller to Modle\\Tranfer date Controller to Modle.csproj|c:\\users\\asp\\desktop\\tranfer date controller to modle\\tranfer date controller to modle\\controllers\\moviess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB672058-785A-4953-8A58-73DA6A95DDB7}|Tranfer date Controller to Modle\\Tranfer date Controller to Modle.csproj|solutionrelative:tranfer date controller to modle\\controllers\\moviess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB672058-785A-4953-8A58-73DA6A95DDB7}|Tranfer date Controller to Modle\\Tranfer date Controller to Modle.csproj|c:\\users\\asp\\desktop\\tranfer date controller to modle\\tranfer date controller to modle\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB672058-785A-4953-8A58-73DA6A95DDB7}|Tranfer date Controller to Modle\\Tranfer date Controller to Modle.csproj|solutionrelative:tranfer date controller to modle\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB672058-785A-4953-8A58-73DA6A95DDB7}|Tranfer date Controller to Modle\\Tranfer date Controller to Modle.csproj|c:\\users\\asp\\desktop\\tranfer date controller to modle\\tranfer date controller to modle\\views\\moviess\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB672058-785A-4953-8A58-73DA6A95DDB7}|Tranfer date Controller to Modle\\Tranfer date Controller to Modle.csproj|solutionrelative:tranfer date controller to modle\\views\\moviess\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asp\\Desktop\\Tranfer date Controller to Modle\\Tranfer date Controller to Modle\\Views\\Moviess\\Index.cshtml",
+              "RelativeDocumentMoniker": "Tranfer date Controller to Modle\\Views\\Moviess\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asp\\Desktop\\Tranfer date Controller to Modle\\Tranfer date Controller to Modle\\Views\\Moviess\\Index.cshtml",
+              "RelativeToolTip": "Tranfer date Controller to Modle\\Views\\Moviess\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T05:20:33.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "movie.cs",
+              "DocumentMoniker": "C:\\Users\\asp\\Desktop\\Tranfer date Controller to Modle\\Tranfer date Controller to Modle\\Models\\movie.cs",
+              "RelativeDocumentMoniker": "Tranfer date Controller to Modle\\Models\\movie.cs",
+              "ToolTip": "C:\\Users\\asp\\Desktop\\Tranfer date Controller to Modle\\Tranfer date Controller to Modle\\Models\\movie.cs",
+              "RelativeToolTip": "Tranfer date Controller to Modle\\Models\\movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T05:15:31.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Moviess.cs",
+              "DocumentMoniker": "C:\\Users\\asp\\Desktop\\Tranfer date Controller to Modle\\Tranfer date Controller to Modle\\Controllers\\Moviess.cs",
+              "RelativeDocumentMoniker": "Tranfer date Controller to Modle\\Controllers\\Moviess.cs",
+              "ToolTip": "C:\\Users\\asp\\Desktop\\Tranfer date Controller to Modle\\Tranfer date Controller to Modle\\Controllers\\Moviess.cs",
+              "RelativeToolTip": "Tranfer date Controller to Modle\\Controllers\\Moviess.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T05:14:06.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

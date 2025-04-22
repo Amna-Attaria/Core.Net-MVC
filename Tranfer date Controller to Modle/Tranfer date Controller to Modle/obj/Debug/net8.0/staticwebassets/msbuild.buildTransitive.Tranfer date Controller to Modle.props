@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Tranfer date Controller to Modle.props" />
+</Project>
