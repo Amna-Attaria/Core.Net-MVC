@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asp\\Desktop\\email Sending\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3925AF7F-D18A-4005-9E38-E5FB253C40AE}|email Sending\\email Sending.csproj|c:\\users\\asp\\desktop\\email sending\\email sending\\controllers\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925AF7F-D18A-4005-9E38-E5FB253C40AE}|email Sending\\email Sending.csproj|solutionrelative:email sending\\controllers\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925AF7F-D18A-4005-9E38-E5FB253C40AE}|email Sending\\email Sending.csproj|c:\\users\\asp\\desktop\\email sending\\email sending\\models\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925AF7F-D18A-4005-9E38-E5FB253C40AE}|email Sending\\email Sending.csproj|solutionrelative:email sending\\models\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925AF7F-D18A-4005-9E38-E5FB253C40AE}|email Sending\\email Sending.csproj|c:\\users\\asp\\desktop\\email sending\\email sending\\views\\feedback\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3925AF7F-D18A-4005-9E38-E5FB253C40AE}|email Sending\\email Sending.csproj|solutionrelative:email sending\\views\\feedback\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asp\\Desktop\\email Sending\\email Sending\\Views\\feedback\\Index.cshtml",
+              "RelativeDocumentMoniker": "email Sending\\Views\\feedback\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asp\\Desktop\\email Sending\\email Sending\\Views\\feedback\\Index.cshtml",
+              "RelativeToolTip": "email Sending\\Views\\feedback\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T05:27:27.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mail.cs",
+              "DocumentMoniker": "C:\\Users\\asp\\Desktop\\email Sending\\email Sending\\Models\\mail.cs",
+              "RelativeDocumentMoniker": "email Sending\\Models\\mail.cs",
+              "ToolTip": "C:\\Users\\asp\\Desktop\\email Sending\\email Sending\\Models\\mail.cs",
+              "RelativeToolTip": "email Sending\\Models\\mail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T05:18:44.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "feedback.cs",
+              "DocumentMoniker": "C:\\Users\\asp\\Desktop\\email Sending\\email Sending\\Controllers\\feedback.cs",
+              "RelativeDocumentMoniker": "email Sending\\Controllers\\feedback.cs",
+              "ToolTip": "C:\\Users\\asp\\Desktop\\email Sending\\email Sending\\Controllers\\feedback.cs",
+              "RelativeToolTip": "email Sending\\Controllers\\feedback.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T05:18:02.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
